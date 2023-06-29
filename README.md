@@ -1,2 +1,1 @@
-# WP-hotel-booking-plugin
-WP hotel booking plugin
+# wordpress_hotel_booking_plugin
